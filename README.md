@@ -9,3 +9,6 @@ A mid-sized commercial bank's IT team detected unauthorised login attempts on a 
 - **Plaso**: To process and analyse log files and create a timeline of events.
 - **swap_digger**: To examine the swap file for traces of sensitive data.
 - **USB Exfiltration Scripts**: To simulate the copying of sensitive data to an external USB device.
+
+## Educational Purpose Disclaimer
+**Note: This project is created for educational purposes only as part of a school assignment. It is not intended for any official or real-world usage. The tools and scripts are designed to simulate an insider threat scenario in a controlled environment and should only be used in a legal, ethical, and academic context.**
