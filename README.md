@@ -1,4 +1,4 @@
-# forensic-evidence-demo
+
 This repository contains a set of scripts and tools used to demonstrate a forensic investigation into an insider attack scenario. The goal is to simulate the unauthorised access, data exfiltration, and analysis of evidence on a compromised workstation in a bank's IT infrastructure. The forensic tools utilised include LiME, Plaso, and swap_digger.
 
 ## Overview
