@@ -5,6 +5,6 @@ cd LiME
 make
 
 # Load the LiME kernel module to capture memory
-sudo insmod lime.ko "path=/tmp/memory_dump.lime format=lime"
+sudo insmod lime-6.11.2-amd64.ko "path=/mnt/usb/memdump.lime format=lime"
 
-echo "Memory dump captured to /tmp/memory_dump.lime"
+echo "Memory dump captured to /mnt/usb/memory_dump.lime"
